@@ -189,7 +189,7 @@
 		},
 		{
 			name: "Figma",
-			img: "./img/Figma.png",
+			img: "./img/figma.png",
 			id: 6
 		},
 		{
